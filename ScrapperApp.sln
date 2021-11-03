@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapperApp", "ScrapperApp\ScrapperApp.csproj", "{12BDC8F4-1F73-4ACE-993B-82680BE4E476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BDC8F4-1F73-4ACE-993B-82680BE4E476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BDC8F4-1F73-4ACE-993B-82680BE4E476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BDC8F4-1F73-4ACE-993B-82680BE4E476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BDC8F4-1F73-4ACE-993B-82680BE4E476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42B40763-98D6-4DB4-8975-8614F7EC1965}
+	EndGlobalSection
+EndGlobal
